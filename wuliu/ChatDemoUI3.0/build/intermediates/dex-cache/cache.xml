@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\dcstor\wuliu\ChatDemoUI3.0\easeUIDemo\build\intermediates\exploded-aar\ChatDemoUI3.0\easeUI\unspecified\jars\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="012ee4b8f79a30ca33fcf6fbfc3dd1fbc38be525">
+        <dex dex="E:\dcstor\wuliu\ChatDemoUI3.0\easeUIDemo\build\intermediates\pre-dexed\debug\org.apache.http.legacy_f30e1cd8d0665dd965628dd033f574198efa3f12.jar" />
+    </item>
+    <item
+        jar="E:\dcstor\wuliu\ChatDemoUI3.0\easeUIDemo\build\intermediates\exploded-aar\ChatDemoUI3.0\easeUI\unspecified\jars\libs\baidumapapi_v3_2_0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e0f16590b920725eac4e20ba31488736b53631d7">
+        <dex dex="E:\dcstor\wuliu\ChatDemoUI3.0\easeUIDemo\build\intermediates\pre-dexed\debug\baidumapapi_v3_2_0_faf437b4b63bfc7339e3e7a9fbc0031bd7fdd64b.jar" />
+    </item>
+    <item
+        jar="E:\dcstor\wuliu\ChatDemoUI3.0\easeUIDemo\build\intermediates\exploded-aar\ChatDemoUI3.0\easeUI\unspecified\jars\libs\easemobchat_2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="afcd685b9fd60e8d68a824473ab604579ead6479">
+        <dex dex="E:\dcstor\wuliu\ChatDemoUI3.0\easeUIDemo\build\intermediates\pre-dexed\debug\easemobchat_2.2.4_cea6d6cc39ff808517ec742231f8dffd33e8a9a3.jar" />
+    </item>
+    <item
+        jar="E:\dcstor\wuliu\ChatDemoUI3.0\easeUIDemo\build\intermediates\exploded-aar\ChatDemoUI3.0\easeUI\unspecified\jars\libs\google-play-services.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6107c3b12c88ef41809679e7ff2c53fef1c6554c">
+        <dex dex="E:\dcstor\wuliu\ChatDemoUI3.0\easeUIDemo\build\intermediates\pre-dexed\debug\google-play-services_c223e58b5e5577f47c9933a0685e82b021a68d78.jar" />
+    </item>
+    <item
+        jar="E:\dcstor\wuliu\ChatDemoUI3.0\easeUIDemo\build\intermediates\exploded-aar\ChatDemoUI3.0\easeUI\unspecified\jars\libs\locSDK_3.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7d16b0610686d1ea7a49624e471b3ecbda09e712">
+        <dex dex="E:\dcstor\wuliu\ChatDemoUI3.0\easeUIDemo\build\intermediates\pre-dexed\debug\locSDK_3.3_add026ff2a7a784c389b5d81e48696ecf9e43161.jar" />
+    </item>
+    <item
+        jar="E:\dcstor\wuliu\ChatDemoUI3.0\easeUIDemo\build\intermediates\exploded-aar\ChatDemoUI3.0\easeUI\unspecified\jars\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85063581bcdffc84588209ec484417bf69b1e8b9">
+        <dex dex="E:\dcstor\wuliu\ChatDemoUI3.0\easeUIDemo\build\intermediates\pre-dexed\debug\android-support-v4_31afc3ad377ddb921cb4b4ee650903154c92c1cc.jar" />
+    </item>
+    <item
+        jar="E:\dcstor\wuliu\ChatDemoUI3.0\easeUIDemo\build\intermediates\exploded-aar\ChatDemoUI3.0\easeUI\unspecified\jars\libs\glide-3.6.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e7545844685afb2f30e1fb1cffd675cc236d6ee8">
+        <dex dex="E:\dcstor\wuliu\ChatDemoUI3.0\easeUIDemo\build\intermediates\pre-dexed\debug\glide-3.6.1_fa19ac15a0060cefc54ba02741724cca99eb948c.jar" />
+    </item>
+    <item
+        jar="E:\dcstor\wuliu\ChatDemoUI3.0\easeUIDemo\build\intermediates\exploded-aar\ChatDemoUI3.0\easeUI\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="35a273fbe98dd784bc49e347f951a17c9c1dad22">
+        <dex dex="E:\dcstor\wuliu\ChatDemoUI3.0\easeUIDemo\build\intermediates\pre-dexed\debug\ChatDemoUI3.0-easeUI-unspecified_a0ec2d9ae9696e856d90543327d6550d6114f174.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+<LinearLayout
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <Button
+        android:id="@+id/bt_search"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_weight="1"
+        android:background="#036994"
+        android:text="寻找商家"
+        android:textColor="#fcfcfd"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/bt_noitify"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_weight="1"
+        android:background="#f70a0e"
+        android:text="通知快递"
+        android:textColor="#fcfcfd"
+        android:textSize="20sp" />
+</LinearLayout>
+<FrameLayout
+android:id="@+id/fl_content"
+android:layout_width="match_parent"
+android:layout_height="match_parent">
+
+</FrameLayout>
+
+
+</LinearLayout>
